@@ -36,6 +36,6 @@ description = "Full-Stack Engineer"
 font = "Raleway"
 githubusername = "#revolly"
 highlight = true
-highlightlanguages = ["c#", "html", "js", "scss", "css"]
+highlightlanguages = ["cs", "javascript", "scss", "css"]
 highlightstyle = "solarized-dark"
 showborder = true
