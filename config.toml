@@ -37,12 +37,12 @@ name = "Home"
 url = "/"
 weight = 1
 [params]
-accent = "blue"
+accent = "#aae2ff"
 author = "Alexei Sitnikov"
 backgroundcolor = "white"
 description = "Full-Stack Engineer"
 font = "Raleway"
-githubusername = "#"
+githubusername = "#revolly"
 highlight = true
 highlightlanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 highlightstyle = "solarized-dark"
