@@ -1,5 +1,5 @@
 baseURL = "http://blog.revolly.com/"
-disqusShortname = "username"
+disqusShortname = "revolly"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "minimal"
@@ -9,20 +9,16 @@ name = "stack-overflow"
 url = "https://www.stackoverflow.com/username/"
 weight = 5
 [[menu.icon]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/username/"
-weight = 4
-[[menu.icon]]
 name = "twitter"
-url = "https://twitter.com/username/"
+url = "https://twitter.com/TheReVolly/"
 weight = 3
 [[menu.icon]]
 name = "github"
-url = "https://github.com/username/"
+url = "https://github.com/revolly/"
 weight = 2
 [[menu.icon]]
 name = "envelope-o"
-url = "mailto:me@example.com"
+url = "mailto:revolly@revolly.com"
 weight = 1
 [[menu.main]]
 name = "Projects"
@@ -44,6 +40,6 @@ description = "Full-Stack Engineer"
 font = "Raleway"
 githubusername = "#revolly"
 highlight = true
-highlightlanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+highlightlanguages = ["c#", "html", "js", "scss", "css"]
 highlightstyle = "solarized-dark"
 showborder = true
