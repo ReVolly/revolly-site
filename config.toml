@@ -1,5 +1,6 @@
 baseURL = "http://blog.revolly.com/"
 disqusShortname = "revolly"
+profilePic="uploads/2018/03/22/photo_2018-03-02_20-32-04.jpg"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "minimal"
