@@ -6,6 +6,5 @@ description: NSIS plugin that allows to detect if particular .NET framework is i
 repo: https://github.com/ReVolly/NsisDotNetChecker
 tags: []
 weight: ''
-draft: true
 
 ---
