@@ -5,21 +5,21 @@ languageCode = "en-us"
 theme = "minimal"
 title = "Alexei Sitnikov"
 [[menu.icon]]
-name = "stack-overflow"
-url = "https://www.stackoverflow.com/username/"
-weight = 5
-[[menu.icon]]
-name = "twitter"
-url = "https://twitter.com/TheReVolly/"
-weight = 3
+name = "envelope-o"
+url = "mailto:revolly@revolly.com"
+weight = 1
 [[menu.icon]]
 name = "github"
 url = "https://github.com/revolly/"
 weight = 2
 [[menu.icon]]
-name = "envelope-o"
-url = "mailto:revolly@revolly.com"
-weight = 1
+name = "twitter"
+url = "https://twitter.com/TheReVolly/"
+weight = 3
+[[menu.icon]]
+name = "stack-overflow"
+url = "https://www.stackoverflow.com/username/"
+weight = 5
 [[menu.main]]
 name = "Projects"
 url = "/project/"
