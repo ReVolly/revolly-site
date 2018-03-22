@@ -16,10 +16,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: tags
+- type: list
+  name: tags
   label: Tags
-  type: tag_list
-  hidden: false
   default: []
 - name: weight
   label: Weight
