@@ -9,7 +9,6 @@ tags:
 - ".net"
 - c#
 weight: ''
-draft: true
 
 ---
 GitHub: [https://github.com/ReVolly/NsisDotNetChecker](https://github.com/ReVolly/NsisDotNetChecker "https://github.com/ReVolly/NsisDotNetChecker")
