@@ -39,5 +39,5 @@ githubusername = "#revolly"
 highlight = true
 highlightlanguages = ["cs", "javascript", "scss", "css"]
 highlightstyle = "solarized-dark"
-profilepic = "uploads/2018/03/22/photo_2018-03-02_20-32-04.jpg"
+profilepic = "/uploads/2018/03/22/photo_2018-03-02_20-32-04.jpg"
 showborder = true
