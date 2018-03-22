@@ -3,7 +3,7 @@ disqusShortname = "username"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "minimal"
-title = "Minimal"
+title = "Alexei Sitnikov"
 [[menu.icon]]
 name = "stack-overflow"
 url = "https://www.stackoverflow.com/username/"
