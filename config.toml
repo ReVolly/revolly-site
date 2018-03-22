@@ -1,4 +1,4 @@
-baseURL = "http://blog.revolly.com/"
+baseURL = "http://revolly.com/"
 disqusShortname = "revolly"
 googleAnalytics = ""
 languageCode = "en-us"
