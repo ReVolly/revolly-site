@@ -1,7 +1,6 @@
 baseURL = "http://blog.revolly.com/"
 disqusShortname = "username"
 googleAnalytics = ""
->>>>>>> 20fc8af79fb5b7c14824fb0f03fe4d9a1867f250
 languageCode = "en-us"
 theme = "minimal"
 title = "Minimal"
