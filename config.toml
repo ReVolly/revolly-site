@@ -5,25 +5,25 @@ languageCode = "en-us"
 theme = "minimal"
 title = "Alexei Sitnikov"
 [[menu.icon]]
-name = "telegram-plane"
-url = "https://t.me/revolly"
-weight = 3
-[[menu.icon]]
-name = "telegram"
-url = "https://t.me/revolly"
-weight = 1
-[[menu.icon]]
-name = "envelope-o"
-url = "mailto:revolly@revolly.com"
-weight = 2
+name = "twitter"
+url = "https://twitter.com/TheReVolly/"
+weight = 4
 [[menu.icon]]
 name = "github"
 url = "https://github.com/revolly/"
 weight = 3
 [[menu.icon]]
-name = "twitter"
-url = "https://twitter.com/TheReVolly/"
-weight = 4
+name = "envelope-o"
+url = "mailto:revolly@revolly.com"
+weight = 2
+[[menu.icon]]
+name = "telegram"
+url = "https://t.me/revolly"
+weight = 1
+[[menu.icon]]
+name = "telegram-plane"
+url = "https://t.me/revolly"
+weight = 3
 [[menu.main]]
 name = "Blog"
 url = "/post/"
