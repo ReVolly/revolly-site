@@ -1,5 +1,5 @@
-baseURL = "http://revolly.com/"
-disqusShortname = "revolly"
+baseURL = "https://sitnikov.io/"
+disqusShortname = "sitnikov"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "minimal"
@@ -14,7 +14,7 @@ url = "https://github.com/revolly/"
 weight = 3
 [[menu.icon]]
 name = "envelope-o"
-url = "mailto:revolly@revolly.com"
+url = "mailto:alexei@sitnikov.io"
 weight = 2
 [[menu.icon]]
 name = "telegram"
