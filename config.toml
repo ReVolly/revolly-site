@@ -1,5 +1,5 @@
 baseURL = "https://sitnikov.io/"
-disqusShortname = "sitnikov"
+disqusShortname = "asitnikov"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "minimal"
@@ -16,10 +16,6 @@ weight = 1
 name = "github"
 url = "https://github.com/revolly/"
 weight = 3
-[[menu.icon]]
-name = "twitter"
-url = "https://twitter.com/TheReVolly/"
-weight = 4
 [[menu.main]]
 name = "Home"
 url = "/"
